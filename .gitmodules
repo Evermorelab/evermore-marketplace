@@ -1,0 +1,6 @@
+[submodule "evermore-marketplace-solidity-sc"]
+	path = evermore-marketplace-solidity-sc
+	url = https://github.com/flo-3/evermore-marketplace-solidity-sc.git
+[submodule "evermore-marketplace-frontend"]
+	path = evermore-marketplace-frontend
+	url = https://github.com/flo-3/evermore-marketplace-frontend.git
